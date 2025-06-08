@@ -1,0 +1,290 @@
+.effect-load-more{
+    position: absolute;
+    bottom: 32px;
+    left: 0;
+    height: 50px;
+    width: 100%;
+    background: linear-gradient(to top, rgb(255, 255, 255) 0%, rgba(255, 255, 255, 0) 100%);
+}
+.seller_download-box{
+    height:55px !important;
+}
+.action-sheet.bottom-sheet .offcanvas-body{
+    border-bottom-width: 0 !important;
+}
+.offcanvas.action-sheet .offcanvas-footer{
+    border-top-width: 0 !important;
+}
+.clear-variation-div{
+    display:flex;
+    justify-content:end;
+    height:41px;
+    padding:0 9px;
+    align-items:center;
+}
+.clear-variation-btn{
+    color:#9C9EAC;
+    font-size:14px;
+    font-weight:600;
+    cursor:pointer;
+}
+.clear-variation-btn.active{
+    color:#6700Ff;
+}
+.clear-variation-effect{
+    position: fixed;
+    bottom: 56px;
+    left: 0;
+    height: 50px;
+    width: 100%;
+    background: linear-gradient(to top, rgb(255, 255, 255) 0%, rgba(255, 255, 255, 0) 100%);
+}
+.clear-variation-effect-2{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    height: 50px;
+    width: 100%;
+    background: linear-gradient(to top, rgb(255, 255, 255) 0%, rgba(255, 255, 255, 0) 100%);
+}
+.clear-variation-effect-desktop{
+    position: fixed;
+    bottom: 50px;
+    left: 0;
+    height: 50px;
+    width: 100%;
+    background: linear-gradient(to top, rgb(255, 255, 255) 0%, rgba(255, 255, 255, 0) 100%);
+}
+.clear-variation-effect-desktop-2{
+    position: fixed;
+    bottom: 10px;
+    left: 0;
+    height: 50px;
+    width: 100%;
+    background: linear-gradient(to top, rgb(255, 255, 255) 0%, rgba(255, 255, 255, 0) 100%);
+}
+.variation-effect{
+    pointer-events:none;
+}
+.input-checkbox-2 input[type=checkbox]:checked{
+    background-image: url(../svgs/icon_tick-circle.svg);
+}
+.h-full{
+    height: 100%;
+}
+
+.product-description a,.toast-text a{
+    color:#6700FF;
+}
+.product-description a:active,.toast-text a:active{
+    text-decoration:underline;
+}
+.product-description a:hover,.toast-text a:hover{
+    text-decoration:underline;
+}
+#add-item-to-chart:active{
+    --mouse-x: 50;
+    --mouse-y: 50;
+    --bg: radial-gradient(circle at center, #9d5cff 0%, #9147ff 27.5%, #8533ff 40%, #781fff 57.5%, #6c0aff 75%, #6200f5 100%);
+    position: relative;
+    background-color: rgb(103, 0, 255);
+}
+.info-box-basket img{
+    width: 26px;
+    transform: translateY(-1px);
+}
+.input-plus-passive {
+    border-color: #e5e7eb !important;
+}
+.decoration{
+    text-decoration:underline;
+}
+
+.flex-row{
+    flex-direction: row;
+}
+
+.product-inputs-wrapper .input-error{
+    border-width: 1px;
+    border-style: solid;
+    --tw-border-opacity: 1;
+    border-color: rgba(238, 49, 36, 1);
+}
+
+#copyNotification {
+    position: absolute;
+    top: 75%;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: #292D32;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-size: 14px;
+    white-space: nowrap;
+}
+
+@media (max-width: 1023px) {
+    #copyNotification {
+        top: 65%;
+    }
+
+    .hide-on-mobile {
+        display: none;
+    }
+}
+
+@media (min-width: 1023px) {
+    .hide-on-desktop {
+        display: none;
+    }
+}
+
+@keyframes fadeout {
+    0% {
+        opacity: 1;
+    }
+    80% {
+        opacity: 1;
+    }
+    100% {
+        opacity: 0;
+    }
+}
+
+.d-none {
+    display: none !important;
+}
+
+.pointer-events-none {
+    pointer-events: none;
+}
+
+.text-black-50 {
+    color: rgba(16, 16, 16, .5);
+}
+
+.error-color {
+    color: #EE3124;
+}
+
+.top-full {
+    top: 100%;
+}
+
+.rounded-tr-none {
+    border-top-right-radius: 0 !important;
+}
+
+.outline-none {
+    outline: 2px solid transparent;
+    outline-offset: 2px;
+}
+
+.visibility-hidden {
+    visibility:hidden;
+}
+.position-absolute{
+    position:absolute;
+}
+@media (min-width: 840px) {
+    /* MODAL WIDTH */
+    .modal-lg {
+        max-width: 800px !important;
+    }
+
+}
+
+.input-search-wrapper:has(.dropdown-menu.show) .search-backdrop {
+    display: block;
+    opacity: 0.5;
+}
+
+#store-sorting-canvas .offcanvas-footer {
+    border-top-width: 0;
+}
+
+
+.description-modal .toast-text {
+    text-align: start;
+}
+
+.multiple-btn-modal .offcanvas-footer {
+    display: flex;
+    flex-direction: column;
+    row-gap: 5px;
+}
+.discount-modal-custom .toast-title{
+    margin-top: 1rem !important;
+    font-size: 1.5rem !important;
+}
+
+.discount-modal-custom .toast-text{
+    margin-top: 2.25rem !important;
+    font-size: 0.9375rem !important;
+}
+
+.product-description ul, .product-description ol, .description-modal ul, .description-modal ol{
+    padding-left: 40px;
+    margin-bottom: 1rem;
+}
+.product-description ul, .description-modal ul{
+    list-style: disc;
+}
+
+.product-description ol, .description-modal ol{
+    list-style: auto;
+}
+
+.product-info-desc{
+    cursor: text;
+}
+
+.action-sheet#ba_deliveryAddressSheet textarea {
+    height: 216px;
+    padding-left: 18px;
+    padding-right: 18px;
+    padding-top: 18px;
+    padding-bottom: 24px;
+    font-size: 0.9375rem;
+}
+.input-radio input[type=checkbox]:checked {
+    background-image: url(../svgs/icon_tick-circle.svg);
+}
+
+.modal.ba_address-delivery-modal .modal-body .textarea-list .textarea-box textarea {
+    height: 216px;
+}
+label:has(.tab-link-canvas.active) {
+    --tw-bg-opacity: 1;
+    background-color: rgba(47, 51, 82, 1);
+    --tw-text-opacity: 1;
+    color: rgba(255, 255, 255, var(--tw-text-opacity, 1));
+}
+.action-sheet .offcanvas-body:has(#track-order-actions.hidden) #order-status-text.empty-element{
+    margin-bottom: 200px;
+}
+@media only screen and (min-width: 1024px) and (max-width: 1205px) {
+    .dropdown_items_first_variation_group.show,
+    .dropdown_items_second_variation_group.show{
+        width: 349px !important;
+    }
+    .dropdown_items_second_variation_group.show{
+        transform: translate(0px, 54px) !important;
+    }
+}
+@media only screen and (min-width: 1206px) {
+    .dropdown_items_first_variation_group.show,
+    .dropdown_items_second_variation_group.show{
+        width: 349px !important;
+    }
+    .dropdown_items_second_variation_group.show{
+        transform: translate(-183px, 54px) !important;
+    }
+}
+
+@media only screen and (max-width: 1024px){
+    .dropdown-title{
+        display: none;
+    }
+}

@@ -1,0 +1,116 @@
+Uri: https://assets.pinterest.com/js/pinit.js
+File Name: C:\Downloaded Web Sites\www.a101.com.tr\www.shopier.com\js\pinit.js
+Content Type: application/javascript
+
+Uri: https://cdn.shopier.app/logo_234/ButikBora7879_5645cee5-209f-4e07-9c26-07cb196bd26c.jpg
+File Name: C:\Downloaded Web Sites\www.a101.com.tr\www.shopier.com\logo_234\ButikBora7879_5645cee5-209f-4e07-9c26-07cb196bd26c.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopier.app/logo_468/ButikBora7879_5645cee5-209f-4e07-9c26-07cb196bd26c.jpg
+File Name: C:\Downloaded Web Sites\www.a101.com.tr\www.shopier.com\logo_468\ButikBora7879_5645cee5-209f-4e07-9c26-07cb196bd26c.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopier.app/pictures_large/ButikBora_2d3ad52fd3181e01ba69302f0382cb73.jpeg
+File Name: C:\Downloaded Web Sites\www.a101.com.tr\www.shopier.com\pictures_large\ButikBora_2d3ad52fd3181e01ba69302f0382cb73.jpeg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopier.app/pictures_large/ButikBora_aedcbf6df9f7ec493234514cb3971551.jpeg
+File Name: C:\Downloaded Web Sites\www.a101.com.tr\www.shopier.com\pictures_large\ButikBora_aedcbf6df9f7ec493234514cb3971551.jpeg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopier.app/pictures_mid/ButikBora_3897431111712341e31826c78dcf1429.jpeg
+File Name: C:\Downloaded Web Sites\www.a101.com.tr\www.shopier.com\pictures_mid\ButikBora_3897431111712341e31826c78dcf1429.jpeg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopier.app/pictures_mid/ButikBora_48b47999210707cb7492a2e5b0dec04a.jpeg
+File Name: C:\Downloaded Web Sites\www.a101.com.tr\www.shopier.com\pictures_mid\ButikBora_48b47999210707cb7492a2e5b0dec04a.jpeg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopier.app/pictures_mid/ButikBora_513f10fbbee8f8e475e1a0f502635879.jpeg
+File Name: C:\Downloaded Web Sites\www.a101.com.tr\www.shopier.com\pictures_mid\ButikBora_513f10fbbee8f8e475e1a0f502635879.jpeg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopier.app/pictures_mid/ButikBora_59fc82af65dd7ccb068d163d1a9c4757.jpeg
+File Name: C:\Downloaded Web Sites\www.a101.com.tr\www.shopier.com\pictures_mid\ButikBora_59fc82af65dd7ccb068d163d1a9c4757.jpeg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopier.app/pictures_mid/ButikBora_6846f2611d17d31380a1199f01879f37.jpeg
+File Name: C:\Downloaded Web Sites\www.a101.com.tr\www.shopier.com\pictures_mid\ButikBora_6846f2611d17d31380a1199f01879f37.jpeg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopier.app/pictures_mid/ButikBora_781026c83ee6a24d92346bf7fafcf1e4.jpeg
+File Name: C:\Downloaded Web Sites\www.a101.com.tr\www.shopier.com\pictures_mid\ButikBora_781026c83ee6a24d92346bf7fafcf1e4.jpeg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopier.app/pictures_mid/ButikBora_8128a6fa81966bb60272dfb9fecd4b09.jpeg
+File Name: C:\Downloaded Web Sites\www.a101.com.tr\www.shopier.com\pictures_mid\ButikBora_8128a6fa81966bb60272dfb9fecd4b09.jpeg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopier.app/pictures_mid/ButikBora_8656eb701ec1754500d84dfdc41f9700.jpeg
+File Name: C:\Downloaded Web Sites\www.a101.com.tr\www.shopier.com\pictures_mid\ButikBora_8656eb701ec1754500d84dfdc41f9700.jpeg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopier.app/pictures_mid/ButikBora_aeee2494bcb6fd70603f28edced4a2ec.jpeg
+File Name: C:\Downloaded Web Sites\www.a101.com.tr\www.shopier.com\pictures_mid\ButikBora_aeee2494bcb6fd70603f28edced4a2ec.jpeg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopier.app/pictures_mid/ButikBora_dbfe7f53cceb1b7b6c10fac67bdea63f.jpeg
+File Name: C:\Downloaded Web Sites\www.a101.com.tr\www.shopier.com\pictures_mid\ButikBora_dbfe7f53cceb1b7b6c10fac67bdea63f.jpeg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopier.app/pictures_small/ButikBora_2d3ad52fd3181e01ba69302f0382cb73.jpeg
+File Name: C:\Downloaded Web Sites\www.a101.com.tr\www.shopier.com\pictures_small\ButikBora_2d3ad52fd3181e01ba69302f0382cb73.jpeg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopier.app/pictures_small/ButikBora_aedcbf6df9f7ec493234514cb3971551.jpeg
+File Name: C:\Downloaded Web Sites\www.a101.com.tr\www.shopier.com\pictures_small\ButikBora_aedcbf6df9f7ec493234514cb3971551.jpeg
+Content Type: image/jpeg
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/lottie-web/5.9.6/lottie.min.js
+File Name: C:\Downloaded Web Sites\www.a101.com.tr\www.shopier.com\ajax\libs\lottie-web\5.9.6\lottie.min.js
+Content Type: application/javascript
+
+Uri: https://code.jquery.com/jquery-3.7.0.min.js
+File Name: C:\Downloaded Web Sites\www.a101.com.tr\www.shopier.com\jquery-3.7.0.min.js
+Content Type: application/javascript
+
+Uri: https://platform.twitter.com/widgets.js
+File Name: C:\Downloaded Web Sites\www.a101.com.tr\www.shopier.com\widgets.js
+Content Type: application/javascript
+
+Uri: https://www.shopier.com/21927939
+File Name: C:\Downloaded Web Sites\www.a101.com.tr\www.shopier.com\21927939.html
+Content Type: text/html
+
+Uri: https://www.shopier.com/s/templates/storev3/assets/css/app.css
+File Name: C:\Downloaded Web Sites\www.a101.com.tr\www.shopier.com\s\templates\storev3\assets\css\app.css
+Content Type: text/css
+
+Uri: https://www.shopier.com/s/templates/storev3/assets/css/custom.css
+File Name: C:\Downloaded Web Sites\www.a101.com.tr\www.shopier.com\s\templates\storev3\assets\css\custom.css
+Content Type: text/css
+
+Uri: https://www.shopier.com/s/templates/storev3/assets/css/index.css
+File Name: C:\Downloaded Web Sites\www.a101.com.tr\www.shopier.com\s\templates\storev3\assets\css\index.css
+Content Type: text/css
+
+Uri: https://www.shopier.com/s/templates/storev3/assets/images/tick-circle.png
+File Name: C:\Downloaded Web Sites\www.a101.com.tr\www.shopier.com\s\templates\storev3\assets\images\tick-circle.png
+Content Type: image/png
+
+Uri: https://www.shopier.com/s/templates/storev3/assets/js/custom.js
+File Name: C:\Downloaded Web Sites\www.a101.com.tr\www.shopier.com\s\templates\storev3\assets\js\custom.js
+Content Type: application/javascript
+
+Uri: https://www.shopier.com/s/templates/storev3/assets/js/index.js
+File Name: C:\Downloaded Web Sites\www.a101.com.tr\www.shopier.com\s\templates\storev3\assets\js\index.js
+Content Type: application/javascript
+
+Uri: https://www.shopier.com/s/templates/storev3/assets/js/product.js
+File Name: C:\Downloaded Web Sites\www.a101.com.tr\www.shopier.com\s\templates\storev3\assets\js\product.js
+Content Type: application/javascript
+
+Uri: https://www.shopier.com/s/templates/storev3/assets/svgs/shopier.svg
+File Name: C:\Downloaded Web Sites\www.a101.com.tr\www.shopier.com\s\templates\storev3\assets\svgs\shopier.svg
+Content Type: image/svg+xml
+
